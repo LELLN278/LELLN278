@@ -17,7 +17,5 @@
   <img align="center" height="30" widith="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />  
   <img align="center" height="30" widith="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />         
 </div>
-
-![snake gif](https://raw.githubusercontent.com/LELLN278/LELLN278/output/github-contribution-grid-snake.svg)
      
           
